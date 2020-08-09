@@ -8,7 +8,7 @@
 
 This is the starter code for a step-by-step lesson. Each step is described in detail here:
 
-### [**Follow the “Using SVG icons” step-by-step lesson ➔**](https://learn-the-web.algonquindesign.ca/courses/web-dev-3/using-svg-icons/)
+### [**Follow the “Using SVG icons” step-by-step lesson ➔**](https://learn-the-web.algonquindesign.ca/courses/web-design-3/using-svg-icons/)
 
 ---
 

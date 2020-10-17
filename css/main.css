@@ -1,0 +1,46 @@
+html {
+  box-sizing: border-box;
+  -moz-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+ul {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  justify-items: center;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: #76a500;
+}
+
+a:hover,
+a:focus {
+  color: #acc300;
+}
+
+.icon {
+  position: relative;
+  height: 8em;
+  width: 8em;
+}
+
+.icon svg {
+  left: 0;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  fill: currentColor;
+}
